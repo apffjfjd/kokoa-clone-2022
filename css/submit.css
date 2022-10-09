@@ -1,0 +1,17 @@
+#submit-form {
+    display: flex;
+    flex-direction: column;
+    margin: 0 25px;
+}
+
+#submit-form input {
+    border: none;
+    background-color: rgba(245, 245, 245, 1);
+    padding: 20px 0;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+#submit-form::placeholder {
+    color: black;
+}

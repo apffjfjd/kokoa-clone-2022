@@ -1,0 +1,12 @@
+.channel {
+    margin-bottom: 15px;
+    display: flex;
+    padding: 15px 20px;
+    justify-content: space-between;
+    opacity: 0.5;
+    align-items: center;
+}
+
+.fa-chevron-up {
+    opacity: 0.5;
+}

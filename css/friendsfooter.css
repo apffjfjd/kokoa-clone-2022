@@ -1,0 +1,47 @@
+footer {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 50px;
+    border-top: 1px solid rgb(0, 0, 0, 0.2);
+    background-color: whitesmoke;
+    bottom: 0;
+    position: fixed;
+    width: 539px;
+    align-items: center;
+}
+
+.fa-comment {
+    position: relative;
+}
+
+.red-cir--big {
+    box-sizing: border-box;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 9px 8px;
+    position: absolute;
+    left: 10px;
+    bottom: 1px;
+    font-size: 10px;
+}
+
+.fa-ellipsis {
+    position: relative;
+}
+
+.red-cir--sm {
+    box-sizing: border-box;
+    width: 5px;
+    height: 5px;
+    border-radius: 2.5px;
+    background-color: red;
+    border: none;
+    position: absolute;
+    left: 20px;
+    bottom: 10px;
+}

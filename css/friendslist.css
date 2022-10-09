@@ -1,0 +1,28 @@
+.channel-list {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+ }
+ 
+ .channel-list__profile {
+     display: flex;
+     align-items: center;
+ }
+ 
+ .channel-list__profile:nth-child(2) {
+     opacity: 0.3;
+     font-weight: 600;
+ }
+ 
+ .channel-list__profile--pic {
+     width: 70px;
+     height: 70px;
+     border-radius: 30px;
+     border: 1px solid none;
+     background-color: rgb(33, 8, 8);
+ }
+ 
+ .channel-list__profile--name {
+     margin-left: 15px;
+     font-weight: 600;
+ }

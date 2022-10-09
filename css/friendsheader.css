@@ -1,0 +1,20 @@
+.friends-header {
+    margin: 30px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.friends-header__title {
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+
+.friends-header__tools {
+    margin-right: 20px;
+}
+
+.fa-xl {
+    margin-left: 20px;
+}

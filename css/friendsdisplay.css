@@ -1,0 +1,19 @@
+.friends-display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.fa-circle-info {
+    padding-top: 3px;
+    opacity: 0.3;
+    margin-right: 5px;
+}
+
+.fa-chevron-right {
+    padding-top: 4px;
+    opacity: 0.3;
+    margin-left: 5px;
+}
